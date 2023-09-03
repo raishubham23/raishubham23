@@ -1,8 +1,8 @@
 - 👋 Hi, I’m shubham kumar rai
 - 👀 I’m interested in ...MNC
 - 🌱 I’m currently learning ...Data Analyst & Data Science
-      .................I have done 2 Projects in Data Analyst 3rd project now i am working.
--    .................I am doing 1st Data Science Project its related to Real/Fake News.          
+      .................I have done 3 Projects in Data Analyst.
+-    .................I have done 1Project in Data Science.I am doing 2nd Data Science Project its related to Internet Traffic Data.          
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.linkedin.com/in/shubham-kumar-rai-720b6315b
 
