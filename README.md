@@ -4,7 +4,7 @@
       .................I have done 3 Projects in Data Analyst.
 -    .................I have done 1Project in Data Science.I am doing 2nd Data Science Project its related to Internet Traffic Data.          
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.linkedin.com/in/shubham-kumar-rai-720b6315b
+- 📫 How to reach me ...www.linkedin.com/in/shubham-kumar-rai-720b6315b_
 
 <!---
 shubham kumar rai/raishubham23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
