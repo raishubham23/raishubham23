@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...MNC
 - 🌱 I’m currently learning ...Data Analyst & Data Science
       .................I have done 3 Projects in Data Analyst.
--    .................I have done 2 Projects in Data Science.          
+-    .................I have done 3 Projects in Data Science.          
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.linkedin.com/in/shubham-kumar-rai-720b6315b
 
